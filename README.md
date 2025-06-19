@@ -1,6 +1,6 @@
-   Hi There 👋
+   Hi There 👋 , Deveshri Jangale
 
-  I'm Deveshri Jangale
+  
   About Me:-
   I have completed M.Com & D.T.L from North Maharashtra University.
   I Have 1year 7months experiance as Accountant & office Adminstration in CA DRK & Associates firm at vashi,Navi Mumbai
@@ -11,12 +11,7 @@
 - 📫 How to reach me at--
 - 📝 Resume:-
 
-💻 My Technical Skills:-
-     Excel   
-     MySQL
-     Power Bi
-     Tableu
-     Python
+💻 My Technical Skills:-Excel,MySQL, Power Bi,Tableu, Python.
      
 👩‍💻 Frameworks and Technologies I am Familiar With:-
      GitHub
