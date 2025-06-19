@@ -1,7 +1,7 @@
    Hi There 👋 , Deveshri Jangale
 
   
-  About Me:-
+  🧍‍♀️About Me-
   I have completed M.Com & D.T.L from North Maharashtra University.
   I Have 1year 7months experiance as Accountant & office Adminstration in CA DRK & Associates firm at vashi,Navi Mumbai
 - 🔭 I’m not currently working Anywhere,i'm looking job in Data Analytics.
